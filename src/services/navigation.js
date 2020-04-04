@@ -1,4 +1,5 @@
 import {Navigation} from 'react-native-navigation';
+import {colors} from '../styles/base';
 
 const bottomTabs = {
   id: 'MainBottomTabs',
@@ -14,7 +15,7 @@ const bottomTabs = {
                   visible: false,
                   drawBehind: true,
                   background: {
-                    color: 'black',
+                    color: colors.dark,
                   },
                 },
               },
@@ -23,7 +24,7 @@ const bottomTabs = {
         ],
         options: {
           bottomTab: {
-            selectedIconColor: '#819301',
+            selectedIconColor: colors.primary_dark,
             icon: require('../assets/icons/home-solid.png'),
           },
         },
@@ -40,7 +41,7 @@ const bottomTabs = {
                   visible: false,
                   drawBehind: true,
                   background: {
-                    color: 'black',
+                    color: colors.dark,
                   },
                 },
               },
@@ -49,7 +50,7 @@ const bottomTabs = {
         ],
         options: {
           bottomTab: {
-            selectedIconColor: '#819301',
+            selectedIconColor: colors.primary_dark,
             icon: require('../assets/icons/joystic-solid.png'),
           },
         },
@@ -66,7 +67,7 @@ const bottomTabs = {
                   visible: false,
                   drawBehind: true,
                   background: {
-                    color: 'black',
+                    color: colors.dark,
                   },
                 },
               },
@@ -75,7 +76,7 @@ const bottomTabs = {
         ],
         options: {
           bottomTab: {
-            selectedIconColor: '#819301',
+            selectedIconColor: colors.primary_dark,
             icon: require('../assets/icons/shopping-bag-solid.png'),
           },
         },
@@ -84,7 +85,7 @@ const bottomTabs = {
   ],
   options: {
     bottomTabs: {
-      backgroundColor: 'black',
+      backgroundColor: colors.dark,
       titleDisplayMode: 'alwaysHide',
     },
   },
@@ -96,3 +97,80 @@ export const goToHome = () =>
       bottomTabs: bottomTabs,
     },
   });
+
+export const navigateTo = (
+  componentName,
+  screenName,
+  componentId,
+  passProps,
+) => {
+  if (passProps !== undefined) {
+    passProps.hasBackButton = true;
+  } else {
+    passProps = {hasBackButton: true};
+  }
+  Navigation.push(componentId, {
+    component: {
+      name: componentName,
+      passProps: passProps,
+      options: {
+        topBar: {
+          visible: true,
+          drawBehind: true,
+          animate: false,
+          background: {
+            color: 'transparent',
+          },
+          backButton: {
+            visible: false,
+            showTitle: false,
+          },
+          elevation: 0,
+        },
+      },
+    },
+  });
+};
+
+export const navigateToWithBackButton = (
+  componentName,
+  screenName,
+  componentId,
+  passProps,
+) => {
+  if (passProps !== undefined) {
+    passProps.hasBackButton = true;
+  } else {
+    passProps = {hasBackButton: true};
+  }
+  Navigation.push(componentId, {
+    component: {
+      name: componentName,
+      passProps: passProps,
+      options: {
+        topBar: {
+          visible: true,
+          drawBehind: true,
+          animate: false,
+          background: {
+            color: 'transparent',
+          },
+          backButton: {
+            visible: true,
+            showTitle: false,
+            color: colors.primary_dark,
+          },
+          elevation: 0,
+        },
+      },
+    },
+  });
+};
+
+export const popNavigation = (componentId) => {
+  Navigation.pop(componentId);
+};
+
+export const popToRoot = (componentId) => {
+  Navigation.popToRoot(componentId);
+};
