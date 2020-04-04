@@ -2,11 +2,13 @@ import App from './App';
 import ClassComponent from './src/pages/samples/ClassComponent';
 import FunctionalComponent from './src/pages/samples/FunctionalComponent';
 import Home from './src/pages/home';
+import Teste from './src/pages/teste';
 import {Navigation} from 'react-native-navigation';
 
 const components = [
   {componentName: 'App', componentProvider: App},
   {componentName: 'Home', componentProvider: Home},
+  {componentName: 'Teste', componentProvider: Teste},
   {componentName: 'ClassComponent', componentProvider: ClassComponent},
   {
     componentName: 'FunctionalComponent',

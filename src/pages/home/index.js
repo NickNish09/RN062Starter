@@ -1,5 +1,6 @@
 import React, {Component} from 'react';
-import {View, Text} from 'react-native';
+import {View, Text, TouchableOpacity} from 'react-native';
+import {navigateTo} from '../../services/navigation';
 
 export default class Home extends Component {
   constructor(props) {
@@ -11,6 +12,10 @@ export default class Home extends Component {
     return (
       <View>
         <Text>Home</Text>
+        <TouchableOpacity
+          onPress={() => navigateTo('Teste', 'Teste', this.props.componentId)}>
+          <Text>Navegar</Text>
+        </TouchableOpacity>
       </View>
     );
   }
