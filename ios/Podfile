@@ -54,6 +54,8 @@ target 'RN062Starter' do
   pod 'glog', :podspec => '../node_modules/react-native/third-party-podspecs/glog.podspec'
   pod 'Folly', :podspec => '../node_modules/react-native/third-party-podspecs/Folly.podspec'
 
+  pod 'ReactNativeNavigation', :path => '../node_modules/react-native-navigation'
+
   target 'RN062StarterTests' do
     inherit! :complete
     # Pods for testing
