@@ -48,7 +48,10 @@ export const fonts = {
   lg: RFValue(28, base_hight),
   lg_lg: RFValue(31, base_hight),
   ex_lg: RFValue(35, base_hight),
-  primary: 'Cochin',
+};
+
+export const fontFamiliy = {
+  primary: 'FuturaPT-Bold',
 };
 
 const baseStyles = {
