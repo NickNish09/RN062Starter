@@ -1,15 +1,15 @@
 import React, {Component} from 'react';
 import {View} from 'react-native';
-import {goToHome} from './src/services/navigation';
+import {goToAuth, goToHome} from './src/services/navigation';
 
 export default class ClassComponent extends Component {
   constructor(props) {
     super(props);
-    this.state = [];
+    this.state = {};
   }
 
   componentDidMount() {
-    goToHome();
+    goToAuth();
   }
 
   render() {

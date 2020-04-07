@@ -4,7 +4,7 @@ import {View} from 'react-native';
 export default class ClassComponent extends Component {
   constructor(props) {
     super(props);
-    this.state = [];
+    this.state = {};
   }
 
   render() {
