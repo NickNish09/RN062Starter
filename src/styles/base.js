@@ -51,7 +51,8 @@ export const fonts = {
 };
 
 export const fontFamiliy = {
-  primary: 'FuturaPT-Bold',
+  primary: 'Montserrat-Black',
+  primaryBold: 'Montserrat-Bold',
 };
 
 const baseStyles = {

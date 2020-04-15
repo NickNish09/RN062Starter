@@ -2,6 +2,8 @@ import React, {Component} from 'react';
 import {SafeAreaView} from 'react-native';
 import {Text, Button, Input} from 'react-native-elements';
 import {goToHome, navigateTo} from '../../services/navigation';
+import {fontFamiliy, fonts} from '../../styles/base';
+import styles from './styles';
 
 export default class SignIn extends Component {
   constructor(props) {
@@ -12,7 +14,7 @@ export default class SignIn extends Component {
   render() {
     return (
       <SafeAreaView>
-        <Text>Tela de Login</Text>
+        <Text style={styles.loginTitle}>Tela de Login</Text>
         <Input placeholder="email" />
         <Input placeholder="senha" secureTextEntry={true} />
 
@@ -22,6 +24,7 @@ export default class SignIn extends Component {
             goToHome();
           }}
           title={'Login'}
+          titleStyle={{fontFamily: fontFamiliy.primary}}
         />
 
         <Button
