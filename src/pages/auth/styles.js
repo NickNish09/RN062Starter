@@ -3,7 +3,7 @@ import {colors, fontFamiliy, fonts} from '../../styles/base';
 
 const styles = StyleSheet.create({
   loginTitle: {
-    fontFamily: fontFamiliy.primaryBold,
+    fontFamily: fontFamiliy.primary_bold,
     fontSize: fonts.lg_lg,
     color: colors.primary_dark,
   },

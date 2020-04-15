@@ -6,6 +6,7 @@ import Teste from './src/pages/teste';
 import SignIn from './src/pages/auth/SignIn';
 import SignUp from './src/pages/auth/SignUp';
 import {Navigation} from 'react-native-navigation';
+import Modal from './src/components/Modal/Modal';
 
 const components = [
   {componentName: 'App', componentProvider: App},
@@ -13,6 +14,7 @@ const components = [
   {componentName: 'SignIn', componentProvider: SignIn},
   {componentName: 'SignUp', componentProvider: SignUp},
   {componentName: 'Teste', componentProvider: Teste},
+  {componentName: 'Modal', componentProvider: Modal},
   {componentName: 'ClassComponent', componentProvider: ClassComponent},
   {
     componentName: 'FunctionalComponent',

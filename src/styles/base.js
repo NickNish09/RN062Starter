@@ -52,7 +52,8 @@ export const fonts = {
 
 export const fontFamiliy = {
   primary: 'Montserrat-Black',
-  primaryBold: 'Montserrat-Bold',
+  primary_bold: 'Montserrat-Bold',
+  primary_italic: 'Montserrat-BoldItalic',
 };
 
 const baseStyles = {
