@@ -16,6 +16,8 @@ export default class SignIn extends Component {
     return (
       <SafeAreaView>
         <Text style={styles.loginTitle}>Tela de Login</Text>
+        <Input placeholder="email" />
+        <Input placeholder="senha" secureTextEntry={true} />
 
         <Button
           onPress={() => {
@@ -29,6 +31,13 @@ export default class SignIn extends Component {
           }}
           title={'Login'}
           titleStyle={{fontFamily: fontFamiliy.primary}}
+        />
+
+        <Button
+          onPress={() =>
+            navigateTo('SignUp', 'Cadastro', this.props.componentId)
+          }
+          title={'Novo usuário? Cadastrar-se'}
         />
       </SafeAreaView>
     );
