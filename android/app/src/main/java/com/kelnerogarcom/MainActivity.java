@@ -1,4 +1,4 @@
-package com.rn062starter;
+package com.kelnerogarcom;
 
 import com.reactnativenavigation.NavigationActivity;
 

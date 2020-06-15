@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-               BuildableName = "RN062Starter-tvOS.app"
-               BlueprintName = "RN062Starter-tvOS"
-               ReferencedContainer = "container:RN062Starter.xcodeproj">
+               BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
+               BuildableName = "KelneroGarcom.app"
+               BlueprintName = "KelneroGarcom"
+               ReferencedContainer = "container:KelneroGarcom.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "RN062Starter-tvOSTests.xctest"
-               BlueprintName = "RN062Starter-tvOSTests"
-               ReferencedContainer = "container:RN062Starter.xcodeproj">
+               BlueprintIdentifier = "00E356ED1AD99517003FC87E"
+               BuildableName = "KelneroGarcomTests.xctest"
+               BlueprintName = "KelneroGarcomTests"
+               ReferencedContainer = "container:KelneroGarcom.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -54,10 +54,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "RN062Starter-tvOS.app"
-            BlueprintName = "RN062Starter-tvOS"
-            ReferencedContainer = "container:RN062Starter.xcodeproj">
+            BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
+            BuildableName = "KelneroGarcom.app"
+            BlueprintName = "KelneroGarcom"
+            ReferencedContainer = "container:KelneroGarcom.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -71,10 +71,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "RN062Starter-tvOS.app"
-            BlueprintName = "RN062Starter-tvOS"
-            ReferencedContainer = "container:RN062Starter.xcodeproj">
+            BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
+            BuildableName = "KelneroGarcom.app"
+            BlueprintName = "KelneroGarcom"
+            ReferencedContainer = "container:KelneroGarcom.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

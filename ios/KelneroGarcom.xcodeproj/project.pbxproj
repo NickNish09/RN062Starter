@@ -7,10 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		00E356F31AD99517003FC87E /* RN062StarterTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* RN062StarterTests.m */; };
+		00E356F31AD99517003FC87E /* KelneroGarcomTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* KelneroGarcomTests.m */; };
 		0163856504B74BC4A1D6DD43 /* MontserratAlternates-LightItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = E91ECC1321BB415DA1E1186D /* MontserratAlternates-LightItalic.otf */; };
 		02E51E275B5043C99E8F38BE /* Montserrat-BoldItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 6FA1E037790849B69C103133 /* Montserrat-BoldItalic.otf */; };
-		0774BC2320E852DB67BB1416 /* libPods-RN062Starter-RN062StarterTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = FF59A84F247C094348B0672C /* libPods-RN062Starter-RN062StarterTests.a */; };
+		0774BC2320E852DB67BB1416 /* libPods-KelneroGarcom-KelneroGarcomTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = FF59A84F247C094348B0672C /* libPods-KelneroGarcom-KelneroGarcomTests.a */; };
 		097E380448E74EE88CC859B8 /* MontserratAlternates-SemiBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 24F47D2FA88146AC9202E09A /* MontserratAlternates-SemiBold.otf */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB11A68108700A75B9A /* LaunchScreen.xib */; };
@@ -23,7 +23,7 @@
 		2D02E4BC1E0B4A80006451C7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		2D02E4BD1E0B4A84006451C7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		2D02E4BF1E0B4AB3006451C7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
-		2DCD954D1E0B4F2C00145EB5 /* RN062StarterTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* RN062StarterTests.m */; };
+		2DCD954D1E0B4F2C00145EB5 /* KelneroGarcomTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* KelneroGarcomTests.m */; };
 		3A53318569824AA9B2A3FA01 /* MontserratAlternates-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = C1B8EA55279B4CFBB71CA593 /* MontserratAlternates-Regular.otf */; };
 		404C93D7542540C1BEE91024 /* Montserrat-Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = E59DBE995C58476094E11259 /* Montserrat-Black.otf */; };
 		4719F39E4C554068AEA0AA6D /* Montserrat-ExtraBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = A3782FFDEE1F46B083A84CE9 /* Montserrat-ExtraBold.otf */; };
@@ -33,7 +33,7 @@
 		5B6D35BD1EBF4611A83C74C0 /* MontserratAlternates-ExtraLight.otf in Resources */ = {isa = PBXBuildFile; fileRef = 56930F8DC9864772BD0CCC9A /* MontserratAlternates-ExtraLight.otf */; };
 		6B3B4D904419422BAD392E12 /* Montserrat-BlackItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 60B99FC9FC6F4CAD86D0164B /* Montserrat-BlackItalic.otf */; };
 		6D116FB63A194B0B8D30E81A /* MontserratAlternates-BoldItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = F9082E80AC0F43C6B264E8D9 /* MontserratAlternates-BoldItalic.otf */; };
-		6EB5AC8820EC98DD25C6B7FA /* libPods-RN062Starter-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 63046258D6B31E84D5D50FB4 /* libPods-RN062Starter-tvOS.a */; };
+		6EB5AC8820EC98DD25C6B7FA /* libPods-KelneroGarcom-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 63046258D6B31E84D5D50FB4 /* libPods-KelneroGarcom-tvOS.a */; };
 		72540017C56E45318D67FD19 /* Montserrat-ExtraBoldItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = ACDC193F9CD74EAEAB64BF73 /* Montserrat-ExtraBoldItalic.otf */; };
 		756A7E07A41E4FFB98EFC3AE /* MontserratAlternates-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = 1438832638E94E2C9A31BD8B /* MontserratAlternates-Light.otf */; };
 		811DDEEA89C349BCBDB92268 /* MontserratAlternates-Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = B73E63A684394CD5B588F8A4 /* MontserratAlternates-Black.otf */; };
@@ -52,10 +52,10 @@
 		E1B27D31C3E541AE916E097B /* Montserrat-SemiBoldItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = A9346370D51847CBAD420CAE /* Montserrat-SemiBoldItalic.otf */; };
 		E234930B19F24FC98F19A9B2 /* Montserrat-Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = C6624A1050B94AA1B2F73C25 /* Montserrat-Italic.otf */; };
 		E297DF603DA44A43908E7B91 /* Montserrat-ThinItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = E2CB9767D8284BB3B513E388 /* Montserrat-ThinItalic.otf */; };
-		EA47CF52D6EC8FD4B5FAC05B /* libPods-RN062Starter-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DFF312A42F9F0AF41046742 /* libPods-RN062Starter-tvOSTests.a */; };
+		EA47CF52D6EC8FD4B5FAC05B /* libPods-KelneroGarcom-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DFF312A42F9F0AF41046742 /* libPods-KelneroGarcom-tvOSTests.a */; };
 		EAE827FD4B92412D878B7749 /* MontserratAlternates-Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 29809648D3C74BA18B60D8C3 /* MontserratAlternates-Italic.otf */; };
 		F5DD98BB95534B23A9247718 /* MontserratAlternates-MediumItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 085AC9AF0CDB4EAA9362F197 /* MontserratAlternates-MediumItalic.otf */; };
-		FE50DAC8E3178D6564853CDA /* libPods-RN062Starter.a in Frameworks */ = {isa = PBXBuildFile; fileRef = C70BF9EE0C3F1A1C31B71CD0 /* libPods-RN062Starter.a */; };
+		FE50DAC8E3178D6564853CDA /* libPods-KelneroGarcom.a in Frameworks */ = {isa = PBXBuildFile; fileRef = C70BF9EE0C3F1A1C31B71CD0 /* libPods-KelneroGarcom.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -64,43 +64,43 @@
 			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 13B07F861A680F5B00A75B9A;
-			remoteInfo = RN062Starter;
+			remoteInfo = KelneroGarcom;
 		};
 		2D02E4911E0B4A5D006451C7 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 2D02E47A1E0B4A5D006451C7;
-			remoteInfo = "RN062Starter-tvOS";
+			remoteInfo = "KelneroGarcom-tvOS";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
 		008F07F21AC5B25A0029DE68 /* main.jsbundle */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = main.jsbundle; sourceTree = "<group>"; };
-		00E356EE1AD99517003FC87E /* RN062StarterTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RN062StarterTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		00E356EE1AD99517003FC87E /* KelneroGarcomTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = KelneroGarcomTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		00E356F21AD99517003FC87E /* RN062StarterTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RN062StarterTests.m; sourceTree = "<group>"; };
-		0399869D877DF9DB1B8F3959 /* Pods-RN062Starter-RN062StarterTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RN062Starter-RN062StarterTests.debug.xcconfig"; path = "Target Support Files/Pods-RN062Starter-RN062StarterTests/Pods-RN062Starter-RN062StarterTests.debug.xcconfig"; sourceTree = "<group>"; };
+		00E356F21AD99517003FC87E /* KelneroGarcomTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = KelneroGarcomTests.m; sourceTree = "<group>"; };
+		0399869D877DF9DB1B8F3959 /* Pods-KelneroGarcom-KelneroGarcomTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-KelneroGarcom-KelneroGarcomTests.debug.xcconfig"; path = "Target Support Files/Pods-KelneroGarcom-KelneroGarcomTests/Pods-KelneroGarcom-KelneroGarcomTests.debug.xcconfig"; sourceTree = "<group>"; };
 		085AC9AF0CDB4EAA9362F197 /* MontserratAlternates-MediumItalic.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "MontserratAlternates-MediumItalic.otf"; path = "../src/assets/fonts/MontserratAlternates-MediumItalic.otf"; sourceTree = "<group>"; };
 		0D8F1405B6A34C9683BC8BAC /* FontAwesome5_Brands.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Brands.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Brands.ttf"; sourceTree = "<group>"; };
-		13B07F961A680F5B00A75B9A /* RN062Starter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RN062Starter.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = RN062Starter/AppDelegate.h; sourceTree = "<group>"; };
-		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = RN062Starter/AppDelegate.m; sourceTree = "<group>"; };
+		13B07F961A680F5B00A75B9A /* KelneroGarcom.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = KelneroGarcom.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = KelneroGarcom/AppDelegate.h; sourceTree = "<group>"; };
+		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = KelneroGarcom/AppDelegate.m; sourceTree = "<group>"; };
 		13B07FB21A68108700A75B9A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
-		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = RN062Starter/Images.xcassets; sourceTree = "<group>"; };
-		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = RN062Starter/Info.plist; sourceTree = "<group>"; };
-		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = RN062Starter/main.m; sourceTree = "<group>"; };
+		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = KelneroGarcom/Images.xcassets; sourceTree = "<group>"; };
+		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = KelneroGarcom/Info.plist; sourceTree = "<group>"; };
+		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = KelneroGarcom/main.m; sourceTree = "<group>"; };
 		1438832638E94E2C9A31BD8B /* MontserratAlternates-Light.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "MontserratAlternates-Light.otf"; path = "../src/assets/fonts/MontserratAlternates-Light.otf"; sourceTree = "<group>"; };
-		183A5D127367CB71389C3261 /* Pods-RN062Starter.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RN062Starter.debug.xcconfig"; path = "Target Support Files/Pods-RN062Starter/Pods-RN062Starter.debug.xcconfig"; sourceTree = "<group>"; };
-		18C837EAAF4BCCE3559BFCDD /* Pods-RN062Starter.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RN062Starter.release.xcconfig"; path = "Target Support Files/Pods-RN062Starter/Pods-RN062Starter.release.xcconfig"; sourceTree = "<group>"; };
-		1DFF312A42F9F0AF41046742 /* libPods-RN062Starter-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-RN062Starter-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		183A5D127367CB71389C3261 /* Pods-KelneroGarcom.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-KelneroGarcom.debug.xcconfig"; path = "Target Support Files/Pods-KelneroGarcom/Pods-KelneroGarcom.debug.xcconfig"; sourceTree = "<group>"; };
+		18C837EAAF4BCCE3559BFCDD /* Pods-KelneroGarcom.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-KelneroGarcom.release.xcconfig"; path = "Target Support Files/Pods-KelneroGarcom/Pods-KelneroGarcom.release.xcconfig"; sourceTree = "<group>"; };
+		1DFF312A42F9F0AF41046742 /* libPods-KelneroGarcom-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-KelneroGarcom-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		24F47D2FA88146AC9202E09A /* MontserratAlternates-SemiBold.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "MontserratAlternates-SemiBold.otf"; path = "../src/assets/fonts/MontserratAlternates-SemiBold.otf"; sourceTree = "<group>"; };
 		26E85A14BBE74CE890BCE30F /* Ionicons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Ionicons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Ionicons.ttf"; sourceTree = "<group>"; };
 		2893E73C3850438A982ED08A /* Foundation.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Foundation.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Foundation.ttf"; sourceTree = "<group>"; };
 		29809648D3C74BA18B60D8C3 /* MontserratAlternates-Italic.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "MontserratAlternates-Italic.otf"; path = "../src/assets/fonts/MontserratAlternates-Italic.otf"; sourceTree = "<group>"; };
 		2BD6CFFF1CC74AD097A8F7DB /* SimpleLineIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = SimpleLineIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/SimpleLineIcons.ttf"; sourceTree = "<group>"; };
-		2D02E47B1E0B4A5D006451C7 /* RN062Starter-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "RN062Starter-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		2D02E4901E0B4A5D006451C7 /* RN062Starter-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "RN062Starter-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2D02E47B1E0B4A5D006451C7 /* KelneroGarcom-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "KelneroGarcom-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2D02E4901E0B4A5D006451C7 /* KelneroGarcom-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "KelneroGarcom-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		30FA808769FE4362A613EBB2 /* Montserrat-Medium.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Montserrat-Medium.otf"; path = "../src/assets/fonts/Montserrat-Medium.otf"; sourceTree = "<group>"; };
 		366142D3B0284DFB8B98C02E /* FontAwesome.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome.ttf"; sourceTree = "<group>"; };
 		3A6709A182D54107B3AE41F3 /* MontserratAlternates-ExtraLightItalic.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "MontserratAlternates-ExtraLightItalic.otf"; path = "../src/assets/fonts/MontserratAlternates-ExtraLightItalic.otf"; sourceTree = "<group>"; };
@@ -114,7 +114,7 @@
 		5D97501EEE154397A395F326 /* MontserratAlternates-Medium.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "MontserratAlternates-Medium.otf"; path = "../src/assets/fonts/MontserratAlternates-Medium.otf"; sourceTree = "<group>"; };
 		60A3419F3D0F4A3E9F58AF53 /* Montserrat-LightItalic.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Montserrat-LightItalic.otf"; path = "../src/assets/fonts/Montserrat-LightItalic.otf"; sourceTree = "<group>"; };
 		60B99FC9FC6F4CAD86D0164B /* Montserrat-BlackItalic.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Montserrat-BlackItalic.otf"; path = "../src/assets/fonts/Montserrat-BlackItalic.otf"; sourceTree = "<group>"; };
-		63046258D6B31E84D5D50FB4 /* libPods-RN062Starter-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-RN062Starter-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		63046258D6B31E84D5D50FB4 /* libPods-KelneroGarcom-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-KelneroGarcom-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6FA1E037790849B69C103133 /* Montserrat-BoldItalic.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Montserrat-BoldItalic.otf"; path = "../src/assets/fonts/Montserrat-BoldItalic.otf"; sourceTree = "<group>"; };
 		7087BE6CC9E64A639B0E363D /* Feather.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Feather.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Feather.ttf"; sourceTree = "<group>"; };
 		725A3D58940F4AA08595D563 /* Montserrat-Light.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Montserrat-Light.otf"; path = "../src/assets/fonts/Montserrat-Light.otf"; sourceTree = "<group>"; };
@@ -123,30 +123,30 @@
 		95C7B42E3EA24959A23B9E5D /* Montserrat-Regular.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Montserrat-Regular.otf"; path = "../src/assets/fonts/Montserrat-Regular.otf"; sourceTree = "<group>"; };
 		9747094D78E94FB4A67E3C04 /* MontserratAlternates-ExtraBold.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "MontserratAlternates-ExtraBold.otf"; path = "../src/assets/fonts/MontserratAlternates-ExtraBold.otf"; sourceTree = "<group>"; };
 		9BD1261F7851429589C37A95 /* Fontisto.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Fontisto.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Fontisto.ttf"; sourceTree = "<group>"; };
-		9C28D218A89311DEA017A1A0 /* Pods-RN062Starter-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RN062Starter-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-RN062Starter-tvOSTests/Pods-RN062Starter-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
+		9C28D218A89311DEA017A1A0 /* Pods-KelneroGarcom-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-KelneroGarcom-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-KelneroGarcom-tvOSTests/Pods-KelneroGarcom-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
 		A1A67A4B90B541CF9C68FC38 /* Montserrat-Bold.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Montserrat-Bold.otf"; path = "../src/assets/fonts/Montserrat-Bold.otf"; sourceTree = "<group>"; };
 		A3782FFDEE1F46B083A84CE9 /* Montserrat-ExtraBold.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Montserrat-ExtraBold.otf"; path = "../src/assets/fonts/Montserrat-ExtraBold.otf"; sourceTree = "<group>"; };
-		A6A82832296CA6FE2E57C56D /* Pods-RN062Starter-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RN062Starter-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-RN062Starter-tvOS/Pods-RN062Starter-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
+		A6A82832296CA6FE2E57C56D /* Pods-KelneroGarcom-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-KelneroGarcom-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-KelneroGarcom-tvOS/Pods-KelneroGarcom-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
 		A9346370D51847CBAD420CAE /* Montserrat-SemiBoldItalic.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Montserrat-SemiBoldItalic.otf"; path = "../src/assets/fonts/Montserrat-SemiBoldItalic.otf"; sourceTree = "<group>"; };
 		A963A17C396C49FD9DAA50F7 /* Montserrat-MediumItalic.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Montserrat-MediumItalic.otf"; path = "../src/assets/fonts/Montserrat-MediumItalic.otf"; sourceTree = "<group>"; };
 		AB3D36D2CB154F81A4EF70CD /* MontserratAlternates-ThinItalic.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "MontserratAlternates-ThinItalic.otf"; path = "../src/assets/fonts/MontserratAlternates-ThinItalic.otf"; sourceTree = "<group>"; };
 		ACDBDD931C0F42F8B01E8399 /* MaterialCommunityIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = MaterialCommunityIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/MaterialCommunityIcons.ttf"; sourceTree = "<group>"; };
 		ACDC193F9CD74EAEAB64BF73 /* Montserrat-ExtraBoldItalic.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Montserrat-ExtraBoldItalic.otf"; path = "../src/assets/fonts/Montserrat-ExtraBoldItalic.otf"; sourceTree = "<group>"; };
-		AF3CC9724DB3D96EE84BF495 /* Pods-RN062Starter-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RN062Starter-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-RN062Starter-tvOSTests/Pods-RN062Starter-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
+		AF3CC9724DB3D96EE84BF495 /* Pods-KelneroGarcom-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-KelneroGarcom-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-KelneroGarcom-tvOSTests/Pods-KelneroGarcom-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
 		B3FD25F1235D4E219CE1A9EC /* MontserratAlternates-ExtraBoldItalic.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "MontserratAlternates-ExtraBoldItalic.otf"; path = "../src/assets/fonts/MontserratAlternates-ExtraBoldItalic.otf"; sourceTree = "<group>"; };
 		B73E63A684394CD5B588F8A4 /* MontserratAlternates-Black.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "MontserratAlternates-Black.otf"; path = "../src/assets/fonts/MontserratAlternates-Black.otf"; sourceTree = "<group>"; };
-		B927A782CFB1C41C9C11E3AA /* Pods-RN062Starter-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RN062Starter-tvOS.release.xcconfig"; path = "Target Support Files/Pods-RN062Starter-tvOS/Pods-RN062Starter-tvOS.release.xcconfig"; sourceTree = "<group>"; };
+		B927A782CFB1C41C9C11E3AA /* Pods-KelneroGarcom-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-KelneroGarcom-tvOS.release.xcconfig"; path = "Target Support Files/Pods-KelneroGarcom-tvOS/Pods-KelneroGarcom-tvOS.release.xcconfig"; sourceTree = "<group>"; };
 		BC2078BD111B456DB563F1FD /* MontserratAlternates-Thin.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "MontserratAlternates-Thin.otf"; path = "../src/assets/fonts/MontserratAlternates-Thin.otf"; sourceTree = "<group>"; };
 		C1B8EA55279B4CFBB71CA593 /* MontserratAlternates-Regular.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "MontserratAlternates-Regular.otf"; path = "../src/assets/fonts/MontserratAlternates-Regular.otf"; sourceTree = "<group>"; };
 		C6624A1050B94AA1B2F73C25 /* Montserrat-Italic.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Montserrat-Italic.otf"; path = "../src/assets/fonts/Montserrat-Italic.otf"; sourceTree = "<group>"; };
-		C70BF9EE0C3F1A1C31B71CD0 /* libPods-RN062Starter.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-RN062Starter.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		C70BF9EE0C3F1A1C31B71CD0 /* libPods-KelneroGarcom.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-KelneroGarcom.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D23743C12C8042E0B12F5E7F /* Montserrat-ExtraLight.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Montserrat-ExtraLight.otf"; path = "../src/assets/fonts/Montserrat-ExtraLight.otf"; sourceTree = "<group>"; };
 		D3716C1107814ECB8FF6AE82 /* MontserratAlternates-Bold.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "MontserratAlternates-Bold.otf"; path = "../src/assets/fonts/MontserratAlternates-Bold.otf"; sourceTree = "<group>"; };
 		D97053C7D9EE46C792E29785 /* Octicons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Octicons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Octicons.ttf"; sourceTree = "<group>"; };
 		DC4CC35FEEAF4AA8A8BBE69A /* MontserratAlternates-SemiBoldItalic.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "MontserratAlternates-SemiBoldItalic.otf"; path = "../src/assets/fonts/MontserratAlternates-SemiBoldItalic.otf"; sourceTree = "<group>"; };
 		E2CB9767D8284BB3B513E388 /* Montserrat-ThinItalic.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Montserrat-ThinItalic.otf"; path = "../src/assets/fonts/Montserrat-ThinItalic.otf"; sourceTree = "<group>"; };
 		E3F70D9AF9C144B692809D75 /* FontAwesome5_Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Regular.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Regular.ttf"; sourceTree = "<group>"; };
-		E436E12CCF1700D353D9654A /* Pods-RN062Starter-RN062StarterTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RN062Starter-RN062StarterTests.release.xcconfig"; path = "Target Support Files/Pods-RN062Starter-RN062StarterTests/Pods-RN062Starter-RN062StarterTests.release.xcconfig"; sourceTree = "<group>"; };
+		E436E12CCF1700D353D9654A /* Pods-KelneroGarcom-KelneroGarcomTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-KelneroGarcom-KelneroGarcomTests.release.xcconfig"; path = "Target Support Files/Pods-KelneroGarcom-KelneroGarcomTests/Pods-KelneroGarcom-KelneroGarcomTests.release.xcconfig"; sourceTree = "<group>"; };
 		E59DBE995C58476094E11259 /* Montserrat-Black.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Montserrat-Black.otf"; path = "../src/assets/fonts/Montserrat-Black.otf"; sourceTree = "<group>"; };
 		E91ECC1321BB415DA1E1186D /* MontserratAlternates-LightItalic.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "MontserratAlternates-LightItalic.otf"; path = "../src/assets/fonts/MontserratAlternates-LightItalic.otf"; sourceTree = "<group>"; };
 		E99E8B2781194D29AC7D99EC /* AntDesign.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = AntDesign.ttf; path = "../node_modules/react-native-vector-icons/Fonts/AntDesign.ttf"; sourceTree = "<group>"; };
@@ -154,7 +154,7 @@
 		ED2971642150620600B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS12.0.sdk/System/Library/Frameworks/JavaScriptCore.framework; sourceTree = DEVELOPER_DIR; };
 		EE9EE379A6DB4477B5F427AA /* MaterialIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = MaterialIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/MaterialIcons.ttf"; sourceTree = "<group>"; };
 		F9082E80AC0F43C6B264E8D9 /* MontserratAlternates-BoldItalic.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "MontserratAlternates-BoldItalic.otf"; path = "../src/assets/fonts/MontserratAlternates-BoldItalic.otf"; sourceTree = "<group>"; };
-		FF59A84F247C094348B0672C /* libPods-RN062Starter-RN062StarterTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-RN062Starter-RN062StarterTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		FF59A84F247C094348B0672C /* libPods-KelneroGarcom-KelneroGarcomTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-KelneroGarcom-KelneroGarcomTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -162,7 +162,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0774BC2320E852DB67BB1416 /* libPods-RN062Starter-RN062StarterTests.a in Frameworks */,
+				0774BC2320E852DB67BB1416 /* libPods-KelneroGarcom-KelneroGarcomTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -170,7 +170,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FE50DAC8E3178D6564853CDA /* libPods-RN062Starter.a in Frameworks */,
+				FE50DAC8E3178D6564853CDA /* libPods-KelneroGarcom.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -178,7 +178,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6EB5AC8820EC98DD25C6B7FA /* libPods-RN062Starter-tvOS.a in Frameworks */,
+				6EB5AC8820EC98DD25C6B7FA /* libPods-KelneroGarcom-tvOS.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -186,20 +186,20 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EA47CF52D6EC8FD4B5FAC05B /* libPods-RN062Starter-tvOSTests.a in Frameworks */,
+				EA47CF52D6EC8FD4B5FAC05B /* libPods-KelneroGarcom-tvOSTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		00E356EF1AD99517003FC87E /* RN062StarterTests */ = {
+		00E356EF1AD99517003FC87E /* KelneroGarcomTests */ = {
 			isa = PBXGroup;
 			children = (
-				00E356F21AD99517003FC87E /* RN062StarterTests.m */,
+				00E356F21AD99517003FC87E /* KelneroGarcomTests.m */,
 				00E356F01AD99517003FC87E /* Supporting Files */,
 			);
-			path = RN062StarterTests;
+			path = KelneroGarcomTests;
 			sourceTree = "<group>";
 		};
 		00E356F01AD99517003FC87E /* Supporting Files */ = {
@@ -210,7 +210,7 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		13B07FAE1A68108700A75B9A /* RN062Starter */ = {
+		13B07FAE1A68108700A75B9A /* KelneroGarcom */ = {
 			isa = PBXGroup;
 			children = (
 				008F07F21AC5B25A0029DE68 /* main.jsbundle */,
@@ -221,7 +221,7 @@
 				13B07FB11A68108700A75B9A /* LaunchScreen.xib */,
 				13B07FB71A68108700A75B9A /* main.m */,
 			);
-			name = RN062Starter;
+			name = KelneroGarcom;
 			sourceTree = "<group>";
 		};
 		22B74132886B45D194164C37 /* Resources */ = {
@@ -288,10 +288,10 @@
 			children = (
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
 				ED2971642150620600B7C4FE /* JavaScriptCore.framework */,
-				C70BF9EE0C3F1A1C31B71CD0 /* libPods-RN062Starter.a */,
-				FF59A84F247C094348B0672C /* libPods-RN062Starter-RN062StarterTests.a */,
-				63046258D6B31E84D5D50FB4 /* libPods-RN062Starter-tvOS.a */,
-				1DFF312A42F9F0AF41046742 /* libPods-RN062Starter-tvOSTests.a */,
+				C70BF9EE0C3F1A1C31B71CD0 /* libPods-KelneroGarcom.a */,
+				FF59A84F247C094348B0672C /* libPods-KelneroGarcom-KelneroGarcomTests.a */,
+				63046258D6B31E84D5D50FB4 /* libPods-KelneroGarcom-tvOS.a */,
+				1DFF312A42F9F0AF41046742 /* libPods-KelneroGarcom-tvOSTests.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -306,9 +306,9 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
-				13B07FAE1A68108700A75B9A /* RN062Starter */,
+				13B07FAE1A68108700A75B9A /* KelneroGarcom */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
-				00E356EF1AD99517003FC87E /* RN062StarterTests */,
+				00E356EF1AD99517003FC87E /* KelneroGarcomTests */,
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				FC7E6B502FB8771FCA14F2C0 /* Pods */,
@@ -322,10 +322,10 @@
 		83CBBA001A601CBA00E9B192 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				13B07F961A680F5B00A75B9A /* RN062Starter.app */,
-				00E356EE1AD99517003FC87E /* RN062StarterTests.xctest */,
-				2D02E47B1E0B4A5D006451C7 /* RN062Starter-tvOS.app */,
-				2D02E4901E0B4A5D006451C7 /* RN062Starter-tvOSTests.xctest */,
+				13B07F961A680F5B00A75B9A /* KelneroGarcom.app */,
+				00E356EE1AD99517003FC87E /* KelneroGarcomTests.xctest */,
+				2D02E47B1E0B4A5D006451C7 /* KelneroGarcom-tvOS.app */,
+				2D02E4901E0B4A5D006451C7 /* KelneroGarcom-tvOSTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -333,14 +333,14 @@
 		FC7E6B502FB8771FCA14F2C0 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				183A5D127367CB71389C3261 /* Pods-RN062Starter.debug.xcconfig */,
-				18C837EAAF4BCCE3559BFCDD /* Pods-RN062Starter.release.xcconfig */,
-				0399869D877DF9DB1B8F3959 /* Pods-RN062Starter-RN062StarterTests.debug.xcconfig */,
-				E436E12CCF1700D353D9654A /* Pods-RN062Starter-RN062StarterTests.release.xcconfig */,
-				A6A82832296CA6FE2E57C56D /* Pods-RN062Starter-tvOS.debug.xcconfig */,
-				B927A782CFB1C41C9C11E3AA /* Pods-RN062Starter-tvOS.release.xcconfig */,
-				9C28D218A89311DEA017A1A0 /* Pods-RN062Starter-tvOSTests.debug.xcconfig */,
-				AF3CC9724DB3D96EE84BF495 /* Pods-RN062Starter-tvOSTests.release.xcconfig */,
+				183A5D127367CB71389C3261 /* Pods-KelneroGarcom.debug.xcconfig */,
+				18C837EAAF4BCCE3559BFCDD /* Pods-KelneroGarcom.release.xcconfig */,
+				0399869D877DF9DB1B8F3959 /* Pods-KelneroGarcom-KelneroGarcomTests.debug.xcconfig */,
+				E436E12CCF1700D353D9654A /* Pods-KelneroGarcom-KelneroGarcomTests.release.xcconfig */,
+				A6A82832296CA6FE2E57C56D /* Pods-KelneroGarcom-tvOS.debug.xcconfig */,
+				B927A782CFB1C41C9C11E3AA /* Pods-KelneroGarcom-tvOS.release.xcconfig */,
+				9C28D218A89311DEA017A1A0 /* Pods-KelneroGarcom-tvOSTests.debug.xcconfig */,
+				AF3CC9724DB3D96EE84BF495 /* Pods-KelneroGarcom-tvOSTests.release.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
@@ -348,9 +348,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		00E356ED1AD99517003FC87E /* RN062StarterTests */ = {
+		00E356ED1AD99517003FC87E /* KelneroGarcomTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "RN062StarterTests" */;
+			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "KelneroGarcomTests" */;
 			buildPhases = (
 				37FDF9AECB1A5526C4ABC934 /* [CP] Check Pods Manifest.lock */,
 				00E356EA1AD99517003FC87E /* Sources */,
@@ -363,14 +363,14 @@
 			dependencies = (
 				00E356F51AD99517003FC87E /* PBXTargetDependency */,
 			);
-			name = RN062StarterTests;
-			productName = RN062StarterTests;
-			productReference = 00E356EE1AD99517003FC87E /* RN062StarterTests.xctest */;
+			name = KelneroGarcomTests;
+			productName = KelneroGarcomTests;
+			productReference = 00E356EE1AD99517003FC87E /* KelneroGarcomTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		13B07F861A680F5B00A75B9A /* RN062Starter */ = {
+		13B07F861A680F5B00A75B9A /* KelneroGarcom */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "RN062Starter" */;
+			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "KelneroGarcom" */;
 			buildPhases = (
 				9A24BD3ECBAEF1267C64445D /* [CP] Check Pods Manifest.lock */,
 				FD10A7F022414F080027D42C /* Start Packager */,
@@ -384,14 +384,14 @@
 			);
 			dependencies = (
 			);
-			name = RN062Starter;
-			productName = RN062Starter;
-			productReference = 13B07F961A680F5B00A75B9A /* RN062Starter.app */;
+			name = KelneroGarcom;
+			productName = KelneroGarcom;
+			productReference = 13B07F961A680F5B00A75B9A /* KelneroGarcom.app */;
 			productType = "com.apple.product-type.application";
 		};
-		2D02E47A1E0B4A5D006451C7 /* RN062Starter-tvOS */ = {
+		2D02E47A1E0B4A5D006451C7 /* KelneroGarcom-tvOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "RN062Starter-tvOS" */;
+			buildConfigurationList = 2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "KelneroGarcom-tvOS" */;
 			buildPhases = (
 				0684CD58D6BA68B81C27BEC7 /* [CP] Check Pods Manifest.lock */,
 				FD10A7F122414F3F0027D42C /* Start Packager */,
@@ -404,14 +404,14 @@
 			);
 			dependencies = (
 			);
-			name = "RN062Starter-tvOS";
-			productName = "RN062Starter-tvOS";
-			productReference = 2D02E47B1E0B4A5D006451C7 /* RN062Starter-tvOS.app */;
+			name = "KelneroGarcom-tvOS";
+			productName = "KelneroGarcom-tvOS";
+			productReference = 2D02E47B1E0B4A5D006451C7 /* KelneroGarcom-tvOS.app */;
 			productType = "com.apple.product-type.application";
 		};
-		2D02E48F1E0B4A5D006451C7 /* RN062Starter-tvOSTests */ = {
+		2D02E48F1E0B4A5D006451C7 /* KelneroGarcom-tvOSTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "RN062Starter-tvOSTests" */;
+			buildConfigurationList = 2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "KelneroGarcom-tvOSTests" */;
 			buildPhases = (
 				ED71F000EB6CFC5D0D8D8061 /* [CP] Check Pods Manifest.lock */,
 				2D02E48C1E0B4A5D006451C7 /* Sources */,
@@ -423,9 +423,9 @@
 			dependencies = (
 				2D02E4921E0B4A5D006451C7 /* PBXTargetDependency */,
 			);
-			name = "RN062Starter-tvOSTests";
-			productName = "RN062Starter-tvOSTests";
-			productReference = 2D02E4901E0B4A5D006451C7 /* RN062Starter-tvOSTests.xctest */;
+			name = "KelneroGarcom-tvOSTests";
+			productName = "KelneroGarcom-tvOSTests";
+			productReference = 2D02E4901E0B4A5D006451C7 /* KelneroGarcom-tvOSTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -454,7 +454,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "RN062Starter" */;
+			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "KelneroGarcom" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -467,10 +467,10 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				13B07F861A680F5B00A75B9A /* RN062Starter */,
-				00E356ED1AD99517003FC87E /* RN062StarterTests */,
-				2D02E47A1E0B4A5D006451C7 /* RN062Starter-tvOS */,
-				2D02E48F1E0B4A5D006451C7 /* RN062Starter-tvOSTests */,
+				13B07F861A680F5B00A75B9A /* KelneroGarcom */,
+				00E356ED1AD99517003FC87E /* KelneroGarcomTests */,
+				2D02E47A1E0B4A5D006451C7 /* KelneroGarcom-tvOS */,
+				2D02E48F1E0B4A5D006451C7 /* KelneroGarcom-tvOSTests */,
 			);
 		};
 /* End PBXProject section */
@@ -575,7 +575,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-RN062Starter-tvOS-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-KelneroGarcom-tvOS-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -588,7 +588,7 @@
 			files = (
 			);
 			inputPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-RN062Starter-RN062StarterTests/Pods-RN062Starter-RN062StarterTests-resources.sh",
+				"${PODS_ROOT}/Target Support Files/Pods-KelneroGarcom-KelneroGarcomTests/Pods-KelneroGarcom-KelneroGarcomTests-resources.sh",
 				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/AntDesign.ttf",
 				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Entypo.ttf",
 				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/EvilIcons.ttf",
@@ -627,7 +627,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-RN062Starter-RN062StarterTests/Pods-RN062Starter-RN062StarterTests-resources.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-KelneroGarcom-KelneroGarcomTests/Pods-KelneroGarcom-KelneroGarcomTests-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		2D02E4CB1E0B4B27006451C7 /* Bundle React Native Code And Images */ = {
@@ -659,7 +659,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-RN062Starter-RN062StarterTests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-KelneroGarcom-KelneroGarcomTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -681,7 +681,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-RN062Starter-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-KelneroGarcom-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -694,7 +694,7 @@
 			files = (
 			);
 			inputPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-RN062Starter/Pods-RN062Starter-resources.sh",
+				"${PODS_ROOT}/Target Support Files/Pods-KelneroGarcom/Pods-KelneroGarcom-resources.sh",
 				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/AntDesign.ttf",
 				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Entypo.ttf",
 				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/EvilIcons.ttf",
@@ -733,7 +733,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-RN062Starter/Pods-RN062Starter-resources.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-KelneroGarcom/Pods-KelneroGarcom-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		ED71F000EB6CFC5D0D8D8061 /* [CP] Check Pods Manifest.lock */ = {
@@ -751,7 +751,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-RN062Starter-tvOSTests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-KelneroGarcom-tvOSTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -803,7 +803,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				00E356F31AD99517003FC87E /* RN062StarterTests.m in Sources */,
+				00E356F31AD99517003FC87E /* KelneroGarcomTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -829,7 +829,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2DCD954D1E0B4F2C00145EB5 /* RN062StarterTests.m in Sources */,
+				2DCD954D1E0B4F2C00145EB5 /* KelneroGarcomTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -838,12 +838,12 @@
 /* Begin PBXTargetDependency section */
 		00E356F51AD99517003FC87E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 13B07F861A680F5B00A75B9A /* RN062Starter */;
+			target = 13B07F861A680F5B00A75B9A /* KelneroGarcom */;
 			targetProxy = 00E356F41AD99517003FC87E /* PBXContainerItemProxy */;
 		};
 		2D02E4921E0B4A5D006451C7 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 2D02E47A1E0B4A5D006451C7 /* RN062Starter-tvOS */;
+			target = 2D02E47A1E0B4A5D006451C7 /* KelneroGarcom-tvOS */;
 			targetProxy = 2D02E4911E0B4A5D006451C7 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -855,7 +855,7 @@
 				13B07FB21A68108700A75B9A /* Base */,
 			);
 			name = LaunchScreen.xib;
-			path = RN062Starter;
+			path = KelneroGarcom;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -863,14 +863,14 @@
 /* Begin XCBuildConfiguration section */
 		00E356F61AD99517003FC87E /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 0399869D877DF9DB1B8F3959 /* Pods-RN062Starter-RN062StarterTests.debug.xcconfig */;
+			baseConfigurationReference = 0399869D877DF9DB1B8F3959 /* Pods-KelneroGarcom-KelneroGarcomTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = RN062StarterTests/Info.plist;
+				INFOPLIST_FILE = KelneroGarcomTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -880,17 +880,17 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/RN062Starter.app/RN062Starter";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/KelneroGarcom.app/KelneroGarcom";
 			};
 			name = Debug;
 		};
 		00E356F71AD99517003FC87E /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = E436E12CCF1700D353D9654A /* Pods-RN062Starter-RN062StarterTests.release.xcconfig */;
+			baseConfigurationReference = E436E12CCF1700D353D9654A /* Pods-KelneroGarcom-KelneroGarcomTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COPY_PHASE_STRIP = NO;
-				INFOPLIST_FILE = RN062StarterTests/Info.plist;
+				INFOPLIST_FILE = KelneroGarcomTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -900,13 +900,13 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/RN062Starter.app/RN062Starter";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/KelneroGarcom.app/KelneroGarcom";
 			};
 			name = Release;
 		};
 		13B07F941A680F5B00A75B9A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 183A5D127367CB71389C3261 /* Pods-RN062Starter.debug.xcconfig */;
+			baseConfigurationReference = 183A5D127367CB71389C3261 /* Pods-KelneroGarcom.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
@@ -916,7 +916,7 @@
 					"$(inherited)",
 					"FB_SONARKIT_ENABLED=1",
 				);
-				INFOPLIST_FILE = RN062Starter/Info.plist;
+				INFOPLIST_FILE = KelneroGarcom/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
@@ -924,7 +924,7 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = RN062Starter;
+				PRODUCT_NAME = KelneroGarcom;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -933,12 +933,12 @@
 		};
 		13B07F951A680F5B00A75B9A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 18C837EAAF4BCCE3559BFCDD /* Pods-RN062Starter.release.xcconfig */;
+			baseConfigurationReference = 18C837EAAF4BCCE3559BFCDD /* Pods-KelneroGarcom.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
-				INFOPLIST_FILE = RN062Starter/Info.plist;
+				INFOPLIST_FILE = KelneroGarcom/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
@@ -946,7 +946,7 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = RN062Starter;
+				PRODUCT_NAME = KelneroGarcom;
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -954,7 +954,7 @@
 		};
 		2D02E4971E0B4A5E006451C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = A6A82832296CA6FE2E57C56D /* Pods-RN062Starter-tvOS.debug.xcconfig */;
+			baseConfigurationReference = A6A82832296CA6FE2E57C56D /* Pods-KelneroGarcom-tvOS.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -965,14 +965,14 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_TESTABILITY = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "RN062Starter-tvOS/Info.plist";
+				INFOPLIST_FILE = "KelneroGarcom-tvOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.RN062Starter-tvOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.KelneroGarcom-tvOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
 				TARGETED_DEVICE_FAMILY = 3;
@@ -982,7 +982,7 @@
 		};
 		2D02E4981E0B4A5E006451C7 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = B927A782CFB1C41C9C11E3AA /* Pods-RN062Starter-tvOS.release.xcconfig */;
+			baseConfigurationReference = B927A782CFB1C41C9C11E3AA /* Pods-KelneroGarcom-tvOS.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -993,14 +993,14 @@
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "RN062Starter-tvOS/Info.plist";
+				INFOPLIST_FILE = "KelneroGarcom-tvOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.RN062Starter-tvOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.KelneroGarcom-tvOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
 				TARGETED_DEVICE_FAMILY = 3;
@@ -1010,7 +1010,7 @@
 		};
 		2D02E4991E0B4A5E006451C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 9C28D218A89311DEA017A1A0 /* Pods-RN062Starter-tvOSTests.debug.xcconfig */;
+			baseConfigurationReference = 9C28D218A89311DEA017A1A0 /* Pods-KelneroGarcom-tvOSTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_ANALYZER_NONNULL = YES;
@@ -1020,24 +1020,24 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_TESTABILITY = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "RN062Starter-tvOSTests/Info.plist";
+				INFOPLIST_FILE = "KelneroGarcom-tvOSTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.RN062Starter-tvOSTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.KelneroGarcom-tvOSTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/RN062Starter-tvOS.app/RN062Starter-tvOS";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/KelneroGarcom-tvOS.app/KelneroGarcom-tvOS";
 				TVOS_DEPLOYMENT_TARGET = 10.1;
 			};
 			name = Debug;
 		};
 		2D02E49A1E0B4A5E006451C7 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = AF3CC9724DB3D96EE84BF495 /* Pods-RN062Starter-tvOSTests.release.xcconfig */;
+			baseConfigurationReference = AF3CC9724DB3D96EE84BF495 /* Pods-KelneroGarcom-tvOSTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_ANALYZER_NONNULL = YES;
@@ -1047,17 +1047,17 @@
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "RN062Starter-tvOSTests/Info.plist";
+				INFOPLIST_FILE = "KelneroGarcom-tvOSTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.RN062Starter-tvOSTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.KelneroGarcom-tvOSTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/RN062Starter-tvOS.app/RN062Starter-tvOS";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/KelneroGarcom-tvOS.app/KelneroGarcom-tvOS";
 				TVOS_DEPLOYMENT_TARGET = 10.1;
 			};
 			name = Release;
@@ -1178,7 +1178,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "RN062StarterTests" */ = {
+		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "KelneroGarcomTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				00E356F61AD99517003FC87E /* Debug */,
@@ -1187,7 +1187,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "RN062Starter" */ = {
+		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "KelneroGarcom" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				13B07F941A680F5B00A75B9A /* Debug */,
@@ -1196,7 +1196,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "RN062Starter-tvOS" */ = {
+		2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "KelneroGarcom-tvOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2D02E4971E0B4A5E006451C7 /* Debug */,
@@ -1205,7 +1205,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "RN062Starter-tvOSTests" */ = {
+		2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "KelneroGarcom-tvOSTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2D02E4991E0B4A5E006451C7 /* Debug */,
@@ -1214,7 +1214,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "RN062Starter" */ = {
+		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "KelneroGarcom" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				83CBBA201A601CBA00E9B192 /* Debug */,
